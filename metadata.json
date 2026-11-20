@@ -1,0 +1,6 @@
+{
+  "name": "SafeFocus",
+  "description": "রিলস ও শর্টস আসক্তি থেকে রক্ষা এবং পড়াশোনা ও জরুরি কাজে মনোযোগ ফিরিয়ে আনার সম্পূর্ণ অফলাইন-ফার্স্ট বাংলা ফোকাস অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SafeFocus</string>
+    <string name="accessibility_service_label">SafeFocus রিলস ও অ্যাপ শিল্ড</string>
+    <string name="accessibility_service_description">YouTube Shorts, Facebook Reels এবং Instagram Reels বা ব্লক করা অ্যাপ খোলা হলে আপনাকে সচেতন করতে ১৫ সেকেন্ডের মনোযোগ বিরতি দেখায়। এটি সম্পূর্ণ অফলাইনে কাজ করে এবং কোনো ব্যক্তিগত তথ্য বা পাসওয়ার্ড সংগ্রহ করে না।</string>
+    <string name="notification_channel_name">SafeFocus ফোকাস সার্ভিস</string>
+    <string name="notification_channel_desc">ব্যাকগ্রাউন্ড ফোকাস টাইমার এবং ফ্লোটিং শিল্ড চালু রাখার জন্য প্রয়োজনীয়।</string>
+</resources>
